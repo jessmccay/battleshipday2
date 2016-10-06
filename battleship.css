@@ -1,0 +1,55 @@
+
+body {
+  background-image: url("http://www.publicdomainpictures.net/pictures/180000/velka/wooden-boat-in-a-stormy-sea.jpg");
+}
+h1 {
+  color: blue;
+  font-size: 50px;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+
+table {
+  margin-left: 220px;
+}
+ td {
+  border-style: ridge;
+  border-color: darkblue;
+  background-color: rgba(0, 0, 255, 0.5);
+  color: lightgreen;
+  width:70px;
+  height:50px;
+  font-size: 30px;
+
+
+}
+
+h2, h3, h4 {
+color: white;
+
+}
+
+h5, h6 {
+color: grey;
+
+}
+
+
+.boom {
+background-image: url("https://pixabay.com/static/uploads/photo/2012/04/18/14/44/bullet-37237_960_720.png");
+background-size: contain;
+
+}
+
+.shipIsHere {
+  background-color: pink;
+}
+
+.showShips {
+/*background-color: white;*/
+background-image: url("https://c1.staticflickr.com/1/104/315224821_3bf37dffae_b.jpg");
+background-size: contain;
+
+  /*background-image: url("https://www.flickr.com/photos/orangeacid/315224821");
+  background-size: contain;*/
+}
